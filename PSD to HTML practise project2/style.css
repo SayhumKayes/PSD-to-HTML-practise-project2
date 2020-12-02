@@ -1,0 +1,304 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    outline: none;
+    font-family: 'PT Sans', sans-serif;
+}
+
+
+/* Header Area */
+
+header
+{
+    display: inline-block;
+    background: #fcdb00;
+}
+.container
+{
+    width: 70%;
+    margin: 0 auto;
+}
+/* top header */
+.top_header
+{
+    padding: 55px 0 60px;
+}
+/* logo */
+.logo
+{
+    width: 55%;
+    float: left;
+}
+.logo img
+{
+    width: 135px;
+}
+/* menu */
+.menu
+{
+    width: 45%;
+    overflow: hidden;
+    margin-top: 8px;
+}
+.menu nav ul li
+{
+    display: inline;
+    list-style: none;
+    margin-left: 60px;
+}
+.menu nav ul li a
+{
+    text-decoration: none;
+    font-size: 21px;
+    font-weight: 700;
+    color: #000000;
+}
+/* main header */
+.main_header
+{
+    margin-bottom: 35px;
+}
+/* main header left */
+.main_header_left
+{
+    width: 62%;
+    float: left;
+    margin-top: 65px;
+}
+.main_header_text
+{
+    padding-right: 210px;
+}
+.main_header_left h2
+{
+    font-size: 26px;
+    margin-bottom: 18px;
+}
+.main_header_left h4
+{
+    font-size: 18px;
+    margin-bottom: 20px;
+    line-height: 21px;
+    color: #46484e;
+    font-weight: lighter;
+}
+.main_header_left p
+{
+    font-size: 14px;
+    line-height: 17px;
+    color: #46484e;
+}
+.main_header_text img
+{
+    width: 30px;
+    margin: 38px 33px 0 0;
+}
+/* main header right */
+.main_header_right
+{
+    width: 38%;
+    overflow: hidden;
+}
+.main_header_right img
+{
+    width: 285px;
+    height: 424px;
+}
+/* slider dot */
+.slider_dot
+{
+    margin-bottom: 35px;
+    text-align: center;
+}
+.slider_dot img
+{
+    width: 12px;
+    height: 12px;
+}
+
+/* Header Area */
+
+
+/* Main Area */
+
+section
+{
+    display: inline-block;
+    padding-top: 100px;    
+}
+/* main area header */
+.header
+{
+    text-align: center;
+    margin: 0 120px;
+}
+.header h2
+{
+    font-size: 28px;
+    margin-bottom: 14px;
+}
+.header p
+{
+    
+    color: #46484e;
+}
+/* main section */
+.main_section
+{
+    margin-top: 82px;
+}
+/* main top section */
+.top_section
+{
+    width: 32%;
+    float: left;
+    overflow: hidden;
+    margin-left: 11px;
+    margin-bottom: 75px;
+}
+.ts_img
+{
+    width: 20%;
+    float: left;
+}
+.ts_description
+{
+    width: 80%;
+    overflow: hidden;
+}
+.ts_description h4
+{
+    font-size: 21px;
+}
+.ts_description p
+{
+    font-size: 15px;
+    color: #46484e;
+}
+/* main bottom section */
+.bottom_section
+{
+    width: 32%;
+    float: left;
+    overflow: hidden;
+    margin-left: 11px;
+}
+.bs_img
+{
+    width: 20%;
+    float: left;
+}
+.bs_description
+{
+    width: 80%;
+    overflow: hidden;
+}
+.bs_description h4
+{
+    font-size: 21px;
+}
+.bs_description p
+{
+    font-size: 15px;
+    color: #46484e;
+}
+
+/* Main Area */
+
+
+/* Footer Area */
+
+footer
+{
+   
+    display: inline-block;
+    padding: 100px 0 0;
+    margin-top: 100px;
+    text-align: center;
+    background: #000000;
+    color: #fcdb00;
+}
+/* Top footer */
+.top_footer
+{
+    margin: 0 100px;
+}
+/* Top footer header */
+.footer_header h2
+{
+    font-size: 26px;
+    color: #fcdb00;
+    margin-bottom: 15px;
+}
+.footer_header p
+{
+    font-size: 20px;
+    color: #46484e;
+    margin-bottom: 35px;
+}
+.email
+{
+    width: 75%;
+    float: left;
+}
+.email input
+{
+    float: right;
+    width: 95%;
+    padding: 14px;
+    border-radius: 5px;
+    border: none;
+    color: #46484e;
+}
+.btn
+{
+    width: 25%;
+    overflow: hidden;
+}
+.btn input
+{
+    width: 80%;
+    padding: 14px;
+    border-radius: 5px;
+    border: none;
+    color: #000000;
+    background: #fcdb00;
+    font-weight: bold;
+    cursor: pointer;
+}
+/* Middle footer */
+.middle_footer
+{
+    margin-top: 65px;
+}
+.middle_footer img
+{
+    padding: 10px;
+}
+/* Bottom footer */
+.bottom_footer
+{
+    padding: 100px 0;
+    margin-bottom: 40px;
+}
+.footer_end1
+{
+    text-align: left;
+    color: #ffffff;
+    width: 16%;
+    float: left;
+    margin-right: 140px;
+    font-size: 14px;
+}
+.footer_end
+{
+    text-align: left;
+    color: #ffffff;
+    width: 17%;
+    float: left;
+    overflow: hidden;
+    font-size: 14px;
+}
+
+/* Footer Area */
